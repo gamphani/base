@@ -1,0 +1,1 @@
+This is a rails base application built with support from RailsApps Project
